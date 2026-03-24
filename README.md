@@ -60,6 +60,8 @@
 <a href="https://www.python.org/" target="_blank">
   <img src="imgs/python.png" width="32" height="32" alt="Python" />
 </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+          
 
 -----
 
