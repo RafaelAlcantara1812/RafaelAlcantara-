@@ -49,14 +49,7 @@
 </table>
 
 -----
-<img src="imgs/skills.gif" height="20" alt="skills"/> Linguagens e ferramentas:
 
-<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
-  <img src="imgs/c.png" width="32" height="32" alt="C" />
-</a>
-&nbsp;
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="31" height="31" alt="cplusplus"/>
 </a>         
 <a href="https://www.python.org/" target="_blank">
   <img src="imgs/python.png" width="32" height="32" alt="Python" />
@@ -66,8 +59,7 @@
   <img src="imgs/vs.png" width="32" height="32" alt="VS Code" />
 </a>
 &nbsp;
-<a href="https://www.notion.so/" target="_blank">
-  <img src="imgs/notion.png" width="32" height="32" alt="Notion" />
+ />
 </a>
 &nbsp;
 <a href="https://www.anaconda.com/" target="_blank">
