@@ -53,7 +53,6 @@
 </a>         
 <a href=
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-          
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="imgs/vs.png" width="32" height="32" alt="VS Code" />
