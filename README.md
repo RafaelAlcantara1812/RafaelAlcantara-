@@ -7,3 +7,28 @@
 -----
 
 
+### Olá, eu sou o Rafael! 👋
+
+Estudante de **Ciência de Dados e Inteligência Artificial**, focado em programação, lógica e desenvolvimento de soluções práticas. 
+
+- 💻 Atualmente estudando Python, Estruturas de Dados e Matemática Discreta.
+- 🐍 Desenvolvendo projetos modulares em Python (como jogos em Pygame).
+- 🤖 Interessado em aplicações de Machine Learning e Inteligência Artificial.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens:** Python
+- **Ambiente & Ferramentas:** VS Code, Git, Astral uv, Windows
+- **Matérias de Estudo:** Matemática Discreta, Arquitetura de Computadores, Algoritmos
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+
